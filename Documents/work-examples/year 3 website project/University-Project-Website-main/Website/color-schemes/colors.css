@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(224, 231, 230);
+}
+
+#main-information {
+  color: rgb(157,16,16);
+}
+/*intentionally made it so that blue and yellow are the main colours, to coenside with William's tritanpia as in the report*/
+
+/*header and footer color*/
+nav,
+#footer,
+.container-fluid,
+li,
+#hamburgerCollapse,
+footer,
+#footer-row,
+#footer-heads,
+#footer-text,
+.navbar-header,
+span,
+.row {
+  background-color: rgb(18, 78, 155);
+}
+
+.nav-link {
+  color: rgb(240, 240, 58);
+}
+
+#footer-heads {
+  color: rgb(46, 221, 207);
+}
+
+#footer-text {
+  color: rgb(207, 204, 186);
+}

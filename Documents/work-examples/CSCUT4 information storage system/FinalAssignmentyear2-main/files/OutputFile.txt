@@ -1,0 +1,600 @@
+Title: Title-B-0 - Type: Journal Paper - Authors: Jason Adair - Year published: 2015 - Publisher name: ACM - Digital object ID: 533/49 | This entry was added 6/2/2021
+
+Title: Title-G-1 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2007 - Publisher name: IEEE - Digital object ID: 580/491 | This entry was added 13/2/2021
+
+Title: Title-F-2 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2004 - Publisher name: Springer - Digital object ID: 1045/875 | This entry was added 27/10/2021
+
+Title: Title-D-3 - Type: Journal Paper - Authors: Jason Adair - Year published: 2008 - Publisher name: Springer - Digital object ID: 173/1568 | This entry was added 4/9/2021
+
+Title: Title-G-4 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2018 - Publisher name: ACM - Digital object ID: 628/863 | This entry was added 11/8/2021
+
+Title: Title-F-5 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2001 - Publisher name: IEEE - Digital object ID: 291/626 | This entry was added 23/10/2021
+
+Title: Title-A-6 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2016 - Publisher name: Springer - Digital object ID: 888/1206 | This entry was added 7/7/2021
+
+Title: Title-A-7 - Type: Journal Paper - Authors: Jason Adair - Year published: 2014 - Publisher name: IEEE - Digital object ID: 1745/1497 | This entry was added 13/5/2021
+
+Title: Title-E-8 - Type: Journal Paper - Authors: Jason Adair - Year published: 2009 - Publisher name: ACM - Digital object ID: 1205/211 | This entry was added 9/2/2021
+
+Title: Title-G-9 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2016 - Publisher name: Elsevier - Digital object ID: 1677/1735 | This entry was added 12/1/2021
+
+Title: Title-H-10 - Type: Journal Paper - Authors: Jason Adair - Year published: 1999 - Publisher name: ACM - Digital object ID: 1705/733 | This entry was added 29/6/2021
+
+Title: Title-E-11 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2012 - Publisher name: IEEE - Digital object ID: 1163/629 | This entry was added 13/7/2021
+
+Title: Title-E-12 - Type: Journal Paper - Authors: Jason Adair - Year published: 2000 - Publisher name: Springer - Digital object ID: 67/1418 | This entry was added 12/2/2021
+
+Title: Title-D-13 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2020 - Publisher name: ACM - Digital object ID: 969/1735 | This entry was added 14/8/2021
+
+Title: Title-C-14 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2011 - Publisher name: IEEE - Digital object ID: 1267/1182 | This entry was added 2/5/2021
+
+Title: Title-G-15 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Elsevier - Digital object ID: 1241/1087 | This entry was added 6/6/2021
+
+Title: Title-H-16 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2004 - Publisher name: IEEE - Digital object ID: 1020/96 | This entry was added 12/8/2021
+
+Title: Title-C-17 - Type: Journal Paper - Authors: Jason Adair - Year published: 2012 - Publisher name: ACM - Digital object ID: 1926/268 | This entry was added 14/11/2021
+
+Title: Title-F-18 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2001 - Publisher name: ACM - Digital object ID: 1866/1913 | This entry was added 17/4/2021
+
+Title: Title-A-19 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2000 - Publisher name: IEEE - Digital object ID: 566/238 | This entry was added 5/6/2021
+
+Title: Title-H-20 - Type: Journal Paper - Authors: Jason Adair - Year published: 2004 - Publisher name: ACM - Digital object ID: 1689/1303 | This entry was added 6/10/2021
+
+Title: Title-G-21 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2016 - Publisher name: Springer - Digital object ID: 336/1717 | This entry was added 15/4/2021
+
+Title: Title-H-22 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2006 - Publisher name: Springer - Digital object ID: 1935/1932 | This entry was added 22/9/2021
+
+Title: Title-C-23 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 1999 - Publisher name: IEEE - Digital object ID: 720/600 | This entry was added 1/9/2021
+
+Title: Title-B-24 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2001 - Publisher name: Springer - Digital object ID: 670/896 | This entry was added 11/11/2021
+
+Title: Title-A-25 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2005 - Publisher name: ACM - Digital object ID: 1706/1126 | This entry was added 8/1/2021
+
+Title: Title-G-26 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2003 - Publisher name: IEEE - Digital object ID: 1381/1967 | This entry was added 23/2/2021
+
+Title: Title-H-27 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2003 - Publisher name: IEEE - Digital object ID: 352/1994 | This entry was added 20/3/2021
+
+Title: Title-B-28 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2014 - Publisher name: IEEE - Digital object ID: 727/505 | This entry was added 17/8/2021
+
+Title: Title-B-29 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2018 - Publisher name: ACM - Digital object ID: 1917/1767 | This entry was added 26/6/2021
+
+Title: Title-B-30 - Type: Journal Paper - Authors: Jason Adair - Year published: 2007 - Publisher name: ACM - Digital object ID: 1908/1411 | This entry was added 8/8/2021
+
+Title: Title-C-31 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2004 - Publisher name: Elsevier - Digital object ID: 1941/1344 | This entry was added 18/8/2021
+
+Title: Title-B-32 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2007 - Publisher name: Elsevier - Digital object ID: 1496/184 | This entry was added 22/10/2021
+
+Title: Title-A-33 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2009 - Publisher name: Springer - Digital object ID: 305/67 | This entry was added 6/9/2021
+
+Title: Title-D-34 - Type: Journal Paper - Authors: Jason Adair - Year published: 2007 - Publisher name: Springer - Digital object ID: 151/1736 | This entry was added 24/7/2021
+
+Title: Title-H-35 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: ACM - Digital object ID: 1982/1433 | This entry was added 9/4/2021
+
+Title: Title-G-36 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2019 - Publisher name: IEEE - Digital object ID: 732/735 | This entry was added 8/3/2021
+
+Title: Title-H-37 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2001 - Publisher name: IEEE - Digital object ID: 787/1348 | This entry was added 11/10/2021
+
+Title: Title-H-38 - Type: Journal Paper - Authors: Jason Adair - Year published: 2020 - Publisher name: IEEE - Digital object ID: 1734/1869 | This entry was added 13/10/2021
+
+Title: Title-A-39 - Type: Journal Paper - Authors: Jason Adair - Year published: 2018 - Publisher name: IEEE - Digital object ID: 410/1390 | This entry was added 2/8/2021
+
+Title: Title-G-40 - Type: Journal Paper - Authors: Jason Adair - Year published: 2019 - Publisher name: ACM - Digital object ID: 1228/1619 | This entry was added 20/11/2021
+
+Title: Title-A-41 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2015 - Publisher name: Springer - Digital object ID: 892/1103 | This entry was added 1/1/2021
+
+Title: Title-C-42 - Type: Journal Paper - Authors: Jason Adair - Year published: 2001 - Publisher name: Elsevier - Digital object ID: 120/843 | This entry was added 23/4/2021
+
+Title: Title-E-43 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2005 - Publisher name: Springer - Digital object ID: 1218/1769 | This entry was added 15/8/2021
+
+Title: Title-F-44 - Type: Journal Paper - Authors: Jason Adair - Year published: 2008 - Publisher name: IEEE - Digital object ID: 1485/634 | This entry was added 26/7/2021
+
+Title: Title-A-45 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: IEEE - Digital object ID: 163/1536 | This entry was added 21/8/2021
+
+Title: Title-F-46 - Type: Journal Paper - Authors: Jason Adair - Year published: 2018 - Publisher name: ACM - Digital object ID: 1531/837 | This entry was added 12/4/2021
+
+Title: Title-A-47 - Type: Journal Paper - Authors: Jason Adair - Year published: 2017 - Publisher name: ACM - Digital object ID: 1097/1912 | This entry was added 4/4/2021
+
+Title: Title-G-48 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2015 - Publisher name: Elsevier - Digital object ID: 639/1918 | This entry was added 25/3/2021
+
+Title: Title-G-49 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2006 - Publisher name: Springer - Digital object ID: 331/3 | This entry was added 22/4/2021
+
+Title: Title-E-50 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2014 - Publisher name: IEEE - Digital object ID: 1319/794 | This entry was added 11/3/2021
+
+Title: Title-B-51 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Elsevier - Digital object ID: 1442/1381 | This entry was added 24/2/2021
+
+Title: Title-C-52 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2010 - Publisher name: Springer - Digital object ID: 1832/1146 | This entry was added 28/8/2021
+
+Title: Title-D-53 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2016 - Publisher name: IEEE - Digital object ID: 872/1260 | This entry was added 19/3/2021
+
+Title: Title-C-54 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2010 - Publisher name: Springer - Digital object ID: 1025/562 | This entry was added 9/1/2021
+
+Title: Title-H-55 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2006 - Publisher name: IEEE - Digital object ID: 1043/1976 | This entry was added 27/10/2021
+
+Title: Title-B-56 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2007 - Publisher name: Springer - Digital object ID: 1920/730 | This entry was added 18/4/2021
+
+Title: Title-A-57 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2006 - Publisher name: Springer - Digital object ID: 442/1481 | This entry was added 26/4/2021
+
+Title: Title-F-58 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 1999 - Publisher name: ACM - Digital object ID: 605/1231 | This entry was added 23/9/2021
+
+Title: Title-H-59 - Type: Journal Paper - Authors: Jason Adair - Year published: 2000 - Publisher name: IEEE - Digital object ID: 1170/1017 | This entry was added 28/8/2021
+
+Title: Title-G-60 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2001 - Publisher name: IEEE - Digital object ID: 704/457 | This entry was added 2/11/2021
+
+Title: Title-G-61 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2016 - Publisher name: ACM - Digital object ID: 495/1076 | This entry was added 22/3/2021
+
+Title: Title-H-62 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2001 - Publisher name: ACM - Digital object ID: 1092/72 | This entry was added 28/4/2021
+
+Title: Title-D-63 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: Elsevier - Digital object ID: 1178/1384 | This entry was added 28/9/2021
+
+Title: Title-D-64 - Type: Journal Paper - Authors: Jason Adair - Year published: 2000 - Publisher name: Elsevier - Digital object ID: 821/245 | This entry was added 26/2/2021
+
+Title: Title-G-65 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2004 - Publisher name: ACM - Digital object ID: 1651/1797 | This entry was added 15/1/2021
+
+Title: Title-A-66 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2001 - Publisher name: IEEE - Digital object ID: 568/1452 | This entry was added 21/5/2021
+
+Title: Title-G-67 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2010 - Publisher name: ACM - Digital object ID: 602/1845 | This entry was added 22/4/2021
+
+Title: Title-D-68 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2012 - Publisher name: Springer - Digital object ID: 1919/1079 | This entry was added 12/9/2021
+
+Title: Title-F-69 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2018 - Publisher name: Elsevier - Digital object ID: 305/1658 | This entry was added 15/5/2021
+
+Title: Title-B-70 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2016 - Publisher name: Elsevier - Digital object ID: 1411/894 | This entry was added 13/8/2021
+
+Title: Title-A-71 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2005 - Publisher name: IEEE - Digital object ID: 1862/1457 | This entry was added 24/6/2021
+
+Title: Title-C-72 - Type: Journal Paper - Authors: Jason Adair - Year published: 2003 - Publisher name: IEEE - Digital object ID: 143/1861 | This entry was added 4/5/2021
+
+Title: Title-H-73 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2018 - Publisher name: Springer - Digital object ID: 1755/542 | This entry was added 15/1/2021
+
+Title: Title-C-74 - Type: Journal Paper - Authors: Jason Adair - Year published: 2009 - Publisher name: ACM - Digital object ID: 251/781 | This entry was added 28/10/2021
+
+Title: Title-B-75 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2019 - Publisher name: IEEE - Digital object ID: 1954/1902 | This entry was added 29/7/2021
+
+Title: Title-D-76 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Springer - Digital object ID: 1927/1140 | This entry was added 28/2/2021
+
+Title: Title-D-77 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2007 - Publisher name: Elsevier - Digital object ID: 1375/420 | This entry was added 13/4/2021
+
+Title: Title-C-78 - Type: Journal Paper - Authors: Jason Adair - Year published: 2007 - Publisher name: ACM - Digital object ID: 1611/707 | This entry was added 28/6/2021
+
+Title: Title-G-79 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2012 - Publisher name: Springer - Digital object ID: 1539/1238 | This entry was added 7/10/2021
+
+Title: Title-B-80 - Type: Journal Paper - Authors: Jason Adair - Year published: 1999 - Publisher name: Elsevier - Digital object ID: 585/1782 | This entry was added 15/4/2021
+
+Title: Title-E-81 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2006 - Publisher name: Springer - Digital object ID: 1168/551 | This entry was added 18/7/2021
+
+Title: Title-D-82 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2011 - Publisher name: ACM - Digital object ID: 1696/593 | This entry was added 27/7/2021
+
+Title: Title-C-83 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2000 - Publisher name: ACM - Digital object ID: 1389/441 | This entry was added 17/11/2021
+
+Title: Title-E-84 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2016 - Publisher name: Elsevier - Digital object ID: 385/1099 | This entry was added 9/7/2021
+
+Title: Title-D-85 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2012 - Publisher name: IEEE - Digital object ID: 1982/763 | This entry was added 20/2/2021
+
+Title: Title-A-86 - Type: Journal Paper - Authors: Jason Adair - Year published: 1999 - Publisher name: ACM - Digital object ID: 1850/88 | This entry was added 14/9/2021
+
+Title: Title-A-87 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2005 - Publisher name: Elsevier - Digital object ID: 595/676 | This entry was added 17/3/2021
+
+Title: Title-D-88 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2004 - Publisher name: ACM - Digital object ID: 291/1750 | This entry was added 16/4/2021
+
+Title: Title-F-89 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2003 - Publisher name: IEEE - Digital object ID: 166/1052 | This entry was added 8/3/2021
+
+Title: Title-E-90 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2018 - Publisher name: Elsevier - Digital object ID: 1704/29 | This entry was added 26/11/2021
+
+Title: Title-E-91 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 1999 - Publisher name: ACM - Digital object ID: 1379/152 | This entry was added 27/11/2021
+
+Title: Title-F-92 - Type: Journal Paper - Authors: Jason Adair - Year published: 2003 - Publisher name: Springer - Digital object ID: 456/1076 | This entry was added 12/2/2021
+
+Title: Title-H-93 - Type: Journal Paper - Authors: Heidi Brynjolfsdottir - Year published: 2018 - Publisher name: Springer - Digital object ID: 117/659 | This entry was added 14/1/2021
+
+Title: Title-H-94 - Type: Journal Paper - Authors: Jason Adair - Year published: 2002 - Publisher name: Springer - Digital object ID: 1545/1287 | This entry was added 15/6/2021
+
+Title: Title-H-95 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2006 - Publisher name: Springer - Digital object ID: 1580/838 | This entry was added 15/2/2021
+
+Title: Title-B-96 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2010 - Publisher name: ACM - Digital object ID: 1241/866 | This entry was added 17/7/2021
+
+Title: Title-D-97 - Type: Journal Paper - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: Elsevier - Digital object ID: 1456/888 | This entry was added 24/4/2021
+
+Title: Title-D-98 - Type: Journal Paper - Authors: Jason Adair - Year published: 2006 - Publisher name: ACM - Digital object ID: 981/211 | This entry was added 13/6/2021
+
+Title: Title-G-99 - Type: Journal Paper - Authors: Kevin Bacon - Year published: 2018 - Publisher name: Elsevier - Digital object ID: 613/453 | This entry was added 8/6/2021
+
+Title: Title-A-0 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 1999 - Publisher name: ACM - Digital object ID: 765/1773 | This entry was added 23/3/2021
+
+Title: Title-C-1 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: Springer - Digital object ID: 611/1124 | This entry was added 23/11/2021
+
+Title: Title-A-2 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2009 - Publisher name: ACM - Digital object ID: 71/902 | This entry was added 19/10/2021
+
+Title: Title-H-3 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: IEEE - Digital object ID: 1163/92 | This entry was added 21/4/2021
+
+Title: Title-D-4 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2018 - Publisher name: Springer - Digital object ID: 1453/922 | This entry was added 5/11/2021
+
+Title: Title-A-5 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2012 - Publisher name: Springer - Digital object ID: 1231/565 | This entry was added 3/5/2021
+
+Title: Title-E-6 - Type: Conference Paper - Authors: Jason Adair - Year published: 2005 - Publisher name: ACM - Digital object ID: 914/1414 | This entry was added 19/4/2021
+
+Title: Title-H-7 - Type: Conference Paper - Authors: Jason Adair - Year published: 2005 - Publisher name: Elsevier - Digital object ID: 176/1224 | This entry was added 23/1/2021
+
+Title: Title-H-8 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: Elsevier - Digital object ID: 1212/1395 | This entry was added 13/10/2021
+
+Title: Title-C-9 - Type: Conference Paper - Authors: Jason Adair - Year published: 2005 - Publisher name: Springer - Digital object ID: 282/965 | This entry was added 1/8/2021
+
+Title: Title-H-10 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: Springer - Digital object ID: 332/224 | This entry was added 19/8/2021
+
+Title: Title-F-11 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2005 - Publisher name: ACM - Digital object ID: 1353/1083 | This entry was added 13/4/2021
+
+Title: Title-H-12 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2011 - Publisher name: ACM - Digital object ID: 825/1893 | This entry was added 24/7/2021
+
+Title: Title-B-13 - Type: Conference Paper - Authors: Jason Adair - Year published: 2015 - Publisher name: Elsevier - Digital object ID: 597/1256 | This entry was added 29/9/2021
+
+Title: Title-G-14 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2006 - Publisher name: Elsevier - Digital object ID: 301/681 | This entry was added 11/6/2021
+
+Title: Title-C-15 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2009 - Publisher name: IEEE - Digital object ID: 1226/1154 | This entry was added 28/1/2021
+
+Title: Title-E-16 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2006 - Publisher name: Springer - Digital object ID: 520/257 | This entry was added 5/4/2021
+
+Title: Title-H-17 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2016 - Publisher name: Elsevier - Digital object ID: 120/299 | This entry was added 10/6/2021
+
+Title: Title-A-18 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2006 - Publisher name: Springer - Digital object ID: 572/1553 | This entry was added 23/2/2021
+
+Title: Title-E-19 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2012 - Publisher name: IEEE - Digital object ID: 475/524 | This entry was added 23/10/2021
+
+Title: Title-A-20 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2018 - Publisher name: ACM - Digital object ID: 1322/539 | This entry was added 29/3/2021
+
+Title: Title-C-21 - Type: Conference Paper - Authors: Jason Adair - Year published: 2014 - Publisher name: ACM - Digital object ID: 509/1128 | This entry was added 15/8/2021
+
+Title: Title-A-22 - Type: Conference Paper - Authors: Jason Adair - Year published: 2005 - Publisher name: Springer - Digital object ID: 1841/748 | This entry was added 15/11/2021
+
+Title: Title-F-23 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2002 - Publisher name: ACM - Digital object ID: 319/1720 | This entry was added 23/3/2021
+
+Title: Title-G-24 - Type: Conference Paper - Authors: Jason Adair - Year published: 2013 - Publisher name: ACM - Digital object ID: 588/27 | This entry was added 14/5/2021
+
+Title: Title-H-25 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2011 - Publisher name: IEEE - Digital object ID: 1838/228 | This entry was added 23/1/2021
+
+Title: Title-H-26 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2011 - Publisher name: Elsevier - Digital object ID: 192/1993 | This entry was added 27/9/2021
+
+Title: Title-F-27 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2009 - Publisher name: ACM - Digital object ID: 637/833 | This entry was added 18/6/2021
+
+Title: Title-C-28 - Type: Conference Paper - Authors: Jason Adair - Year published: 2015 - Publisher name: Elsevier - Digital object ID: 1015/1391 | This entry was added 22/3/2021
+
+Title: Title-H-29 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2012 - Publisher name: Elsevier - Digital object ID: 1583/1873 | This entry was added 17/4/2021
+
+Title: Title-F-30 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2017 - Publisher name: IEEE - Digital object ID: 508/81 | This entry was added 19/8/2021
+
+Title: Title-H-31 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2018 - Publisher name: Elsevier - Digital object ID: 1541/13 | This entry was added 18/6/2021
+
+Title: Title-E-32 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2013 - Publisher name: Elsevier - Digital object ID: 1989/224 | This entry was added 28/4/2021
+
+Title: Title-F-33 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2019 - Publisher name: Elsevier - Digital object ID: 415/1989 | This entry was added 13/6/2021
+
+Title: Title-H-34 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2012 - Publisher name: IEEE - Digital object ID: 1299/676 | This entry was added 7/11/2021
+
+Title: Title-D-35 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2012 - Publisher name: IEEE - Digital object ID: 1062/1477 | This entry was added 20/11/2021
+
+Title: Title-G-36 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2014 - Publisher name: ACM - Digital object ID: 65/1568 | This entry was added 5/10/2021
+
+Title: Title-F-37 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2008 - Publisher name: ACM - Digital object ID: 1733/740 | This entry was added 23/11/2021
+
+Title: Title-H-38 - Type: Conference Paper - Authors: Jason Adair - Year published: 2018 - Publisher name: ACM - Digital object ID: 391/1807 | This entry was added 22/9/2021
+
+Title: Title-B-39 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2007 - Publisher name: Elsevier - Digital object ID: 1783/1750 | This entry was added 19/6/2021
+
+Title: Title-G-40 - Type: Conference Paper - Authors: Jason Adair - Year published: 1999 - Publisher name: Springer - Digital object ID: 1369/896 | This entry was added 10/5/2021
+
+Title: Title-C-41 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2016 - Publisher name: Elsevier - Digital object ID: 1976/801 | This entry was added 28/3/2021
+
+Title: Title-H-42 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: IEEE - Digital object ID: 534/611 | This entry was added 14/10/2021
+
+Title: Title-E-43 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2002 - Publisher name: IEEE - Digital object ID: 838/142 | This entry was added 26/6/2021
+
+Title: Title-C-44 - Type: Conference Paper - Authors: Jason Adair - Year published: 2000 - Publisher name: IEEE - Digital object ID: 431/1470 | This entry was added 1/2/2021
+
+Title: Title-A-45 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2003 - Publisher name: IEEE - Digital object ID: 1361/667 | This entry was added 20/10/2021
+
+Title: Title-H-46 - Type: Conference Paper - Authors: Jason Adair - Year published: 1999 - Publisher name: Elsevier - Digital object ID: 926/155 | This entry was added 21/9/2021
+
+Title: Title-E-47 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Springer - Digital object ID: 222/602 | This entry was added 6/9/2021
+
+Title: Title-G-48 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2018 - Publisher name: IEEE - Digital object ID: 1625/1463 | This entry was added 8/1/2021
+
+Title: Title-E-49 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2001 - Publisher name: IEEE - Digital object ID: 105/1463 | This entry was added 26/5/2021
+
+Title: Title-F-50 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: Elsevier - Digital object ID: 586/514 | This entry was added 14/6/2021
+
+Title: Title-A-51 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2002 - Publisher name: Springer - Digital object ID: 378/1183 | This entry was added 9/2/2021
+
+Title: Title-C-52 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2005 - Publisher name: Elsevier - Digital object ID: 984/1043 | This entry was added 4/6/2021
+
+Title: Title-A-53 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2009 - Publisher name: Elsevier - Digital object ID: 1811/1036 | This entry was added 12/6/2021
+
+Title: Title-F-54 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2014 - Publisher name: Elsevier - Digital object ID: 1924/49 | This entry was added 27/6/2021
+
+Title: Title-B-55 - Type: Conference Paper - Authors: Jason Adair - Year published: 2019 - Publisher name: Elsevier - Digital object ID: 611/180 | This entry was added 22/8/2021
+
+Title: Title-H-56 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2008 - Publisher name: Springer - Digital object ID: 383/412 | This entry was added 1/6/2021
+
+Title: Title-H-57 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2014 - Publisher name: Springer - Digital object ID: 1962/454 | This entry was added 1/11/2021
+
+Title: Title-D-58 - Type: Conference Paper - Authors: Jason Adair - Year published: 2012 - Publisher name: Elsevier - Digital object ID: 920/1804 | This entry was added 27/1/2021
+
+Title: Title-D-59 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2019 - Publisher name: Springer - Digital object ID: 1637/564 | This entry was added 27/10/2021
+
+Title: Title-E-60 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2013 - Publisher name: Springer - Digital object ID: 1894/1524 | This entry was added 4/6/2021
+
+Title: Title-B-61 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2000 - Publisher name: Springer - Digital object ID: 1804/1168 | This entry was added 12/3/2021
+
+Title: Title-A-62 - Type: Conference Paper - Authors: Jason Adair - Year published: 2017 - Publisher name: Elsevier - Digital object ID: 834/554 | This entry was added 26/11/2021
+
+Title: Title-C-63 - Type: Conference Paper - Authors: Jason Adair - Year published: 2015 - Publisher name: Springer - Digital object ID: 1491/665 | This entry was added 11/2/2021
+
+Title: Title-H-64 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2000 - Publisher name: IEEE - Digital object ID: 1234/1692 | This entry was added 22/6/2021
+
+Title: Title-C-65 - Type: Conference Paper - Authors: Jason Adair - Year published: 2007 - Publisher name: Elsevier - Digital object ID: 84/1550 | This entry was added 19/3/2021
+
+Title: Title-G-66 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Elsevier - Digital object ID: 1115/448 | This entry was added 11/10/2021
+
+Title: Title-E-67 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2016 - Publisher name: Springer - Digital object ID: 1199/825 | This entry was added 19/1/2021
+
+Title: Title-D-68 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2003 - Publisher name: IEEE - Digital object ID: 1791/1990 | This entry was added 22/1/2021
+
+Title: Title-H-69 - Type: Conference Paper - Authors: Jason Adair - Year published: 2015 - Publisher name: Elsevier - Digital object ID: 1809/1975 | This entry was added 21/1/2021
+
+Title: Title-H-70 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2015 - Publisher name: IEEE - Digital object ID: 728/1019 | This entry was added 20/1/2021
+
+Title: Title-B-71 - Type: Conference Paper - Authors: Jason Adair - Year published: 2009 - Publisher name: IEEE - Digital object ID: 905/905 | This entry was added 19/6/2021
+
+Title: Title-H-72 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2017 - Publisher name: IEEE - Digital object ID: 266/1642 | This entry was added 2/1/2021
+
+Title: Title-E-73 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2019 - Publisher name: IEEE - Digital object ID: 1521/857 | This entry was added 10/9/2021
+
+Title: Title-H-74 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2006 - Publisher name: Springer - Digital object ID: 905/994 | This entry was added 14/8/2021
+
+Title: Title-H-75 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: Elsevier - Digital object ID: 588/1689 | This entry was added 1/4/2021
+
+Title: Title-H-76 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 1999 - Publisher name: ACM - Digital object ID: 796/718 | This entry was added 21/8/2021
+
+Title: Title-F-77 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2002 - Publisher name: IEEE - Digital object ID: 1768/1709 | This entry was added 20/10/2021
+
+Title: Title-H-78 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2002 - Publisher name: ACM - Digital object ID: 434/1456 | This entry was added 21/6/2021
+
+Title: Title-H-79 - Type: Conference Paper - Authors: Jason Adair - Year published: 2018 - Publisher name: Springer - Digital object ID: 739/494 | This entry was added 15/7/2021
+
+Title: Title-C-80 - Type: Conference Paper - Authors: Jason Adair - Year published: 2019 - Publisher name: IEEE - Digital object ID: 164/1051 | This entry was added 19/4/2021
+
+Title: Title-A-81 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2018 - Publisher name: ACM - Digital object ID: 1176/406 | This entry was added 3/3/2021
+
+Title: Title-B-82 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2017 - Publisher name: Elsevier - Digital object ID: 1088/1771 | This entry was added 14/7/2021
+
+Title: Title-F-83 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2002 - Publisher name: IEEE - Digital object ID: 1872/390 | This entry was added 11/2/2021
+
+Title: Title-G-84 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2019 - Publisher name: Elsevier - Digital object ID: 1819/292 | This entry was added 17/9/2021
+
+Title: Title-G-85 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2011 - Publisher name: Springer - Digital object ID: 811/875 | This entry was added 1/2/2021
+
+Title: Title-B-86 - Type: Conference Paper - Authors: Jason Adair - Year published: 2014 - Publisher name: IEEE - Digital object ID: 1215/415 | This entry was added 19/2/2021
+
+Title: Title-A-87 - Type: Conference Paper - Authors: Jason Adair - Year published: 2014 - Publisher name: ACM - Digital object ID: 1421/922 | This entry was added 2/10/2021
+
+Title: Title-G-88 - Type: Conference Paper - Authors: Jason Adair - Year published: 2019 - Publisher name: ACM - Digital object ID: 1018/510 | This entry was added 16/10/2021
+
+Title: Title-F-89 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2006 - Publisher name: IEEE - Digital object ID: 462/647 | This entry was added 28/9/2021
+
+Title: Title-E-90 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: Springer - Digital object ID: 1968/996 | This entry was added 27/2/2021
+
+Title: Title-B-91 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2011 - Publisher name: Elsevier - Digital object ID: 683/392 | This entry was added 14/3/2021
+
+Title: Title-A-92 - Type: Conference Paper - Authors: Jason Adair - Year published: 2006 - Publisher name: ACM - Digital object ID: 1540/1164 | This entry was added 1/10/2021
+
+Title: Title-E-93 - Type: Conference Paper - Authors: Jason Adair - Year published: 2016 - Publisher name: IEEE - Digital object ID: 1111/1710 | This entry was added 23/5/2021
+
+Title: Title-A-94 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2016 - Publisher name: ACM - Digital object ID: 271/86 | This entry was added 10/6/2021
+
+Title: Title-G-95 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Springer - Digital object ID: 240/1348 | This entry was added 22/3/2021
+
+Title: Title-G-96 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2013 - Publisher name: Springer - Digital object ID: 1223/505 | This entry was added 16/7/2021
+
+Title: Title-D-97 - Type: Conference Paper - Authors: Saemi Haraldsson - Year published: 2017 - Publisher name: ACM - Digital object ID: 118/1472 | This entry was added 1/6/2021
+
+Title: Title-A-98 - Type: Conference Paper - Authors: Kevin Bacon - Year published: 2000 - Publisher name: Springer - Digital object ID: 935/1309 | This entry was added 26/7/2021
+
+Title: Title-D-99 - Type: Conference Paper - Authors: Heidi Brynjolfsdottir - Year published: 2003 - Publisher name: Elsevier - Digital object ID: 1839/1726 | This entry was added 6/8/2021
+
+Title: Title-D-0 - Type: Book Chapter - Authors: Jason Adair - Year published: 2006 - Publisher name: ACM - Digital object ID: 202/1031 | This entry was added 8/5/2021
+
+Title: Title-F-1 - Type: Book Chapter - Authors: Jason Adair - Year published: 2016 - Publisher name: Springer - Digital object ID: 741/1240 | This entry was added 14/6/2021
+
+Title: Title-B-2 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2008 - Publisher name: Springer - Digital object ID: 884/1342 | This entry was added 25/9/2021
+
+Title: Title-H-3 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2005 - Publisher name: ACM - Digital object ID: 1029/600 | This entry was added 27/6/2021
+
+Title: Title-F-4 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2002 - Publisher name: IEEE - Digital object ID: 1011/1591 | This entry was added 2/11/2021
+
+Title: Title-G-5 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2020 - Publisher name: Springer - Digital object ID: 695/1883 | This entry was added 4/8/2021
+
+Title: Title-H-6 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2012 - Publisher name: Springer - Digital object ID: 808/1852 | This entry was added 26/4/2021
+
+Title: Title-E-7 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2016 - Publisher name: ACM - Digital object ID: 1297/445 | This entry was added 11/11/2021
+
+Title: Title-H-8 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 1999 - Publisher name: Springer - Digital object ID: 1509/1651 | This entry was added 3/10/2021
+
+Title: Title-E-9 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2002 - Publisher name: ACM - Digital object ID: 1029/434 | This entry was added 3/9/2021
+
+Title: Title-H-10 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2001 - Publisher name: ACM - Digital object ID: 1268/1734 | This entry was added 15/1/2021
+
+Title: Title-F-11 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2015 - Publisher name: IEEE - Digital object ID: 1015/183 | This entry was added 13/2/2021
+
+Title: Title-A-12 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2004 - Publisher name: ACM - Digital object ID: 474/1684 | This entry was added 17/9/2021
+
+Title: Title-G-13 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2011 - Publisher name: Springer - Digital object ID: 1164/1858 | This entry was added 26/8/2021
+
+Title: Title-H-14 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2009 - Publisher name: Springer - Digital object ID: 1619/631 | This entry was added 6/4/2021
+
+Title: Title-B-15 - Type: Book Chapter - Authors: Jason Adair - Year published: 2008 - Publisher name: ACM - Digital object ID: 1672/1510 | This entry was added 8/4/2021
+
+Title: Title-C-16 - Type: Book Chapter - Authors: Jason Adair - Year published: 2010 - Publisher name: Elsevier - Digital object ID: 88/23 | This entry was added 27/7/2021
+
+Title: Title-G-17 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2002 - Publisher name: ACM - Digital object ID: 1230/188 | This entry was added 17/3/2021
+
+Title: Title-G-18 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2017 - Publisher name: ACM - Digital object ID: 1237/1428 | This entry was added 2/9/2021
+
+Title: Title-D-19 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2020 - Publisher name: Springer - Digital object ID: 1244/1272 | This entry was added 2/7/2021
+
+Title: Title-D-20 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2004 - Publisher name: ACM - Digital object ID: 1480/693 | This entry was added 19/10/2021
+
+Title: Title-E-21 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2003 - Publisher name: ACM - Digital object ID: 270/1047 | This entry was added 1/3/2021
+
+Title: Title-H-22 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2014 - Publisher name: ACM - Digital object ID: 1133/1335 | This entry was added 4/5/2021
+
+Title: Title-A-23 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2001 - Publisher name: Elsevier - Digital object ID: 661/1633 | This entry was added 24/7/2021
+
+Title: Title-F-24 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2000 - Publisher name: IEEE - Digital object ID: 78/504 | This entry was added 15/10/2021
+
+Title: Title-D-25 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2000 - Publisher name: Springer - Digital object ID: 53/953 | This entry was added 9/1/2021
+
+Title: Title-D-26 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2009 - Publisher name: IEEE - Digital object ID: 332/765 | This entry was added 18/11/2021
+
+Title: Title-D-27 - Type: Book Chapter - Authors: Jason Adair - Year published: 1999 - Publisher name: Springer - Digital object ID: 74/516 | This entry was added 24/6/2021
+
+Title: Title-B-28 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2004 - Publisher name: ACM - Digital object ID: 929/1911 | This entry was added 10/9/2021
+
+Title: Title-A-29 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2015 - Publisher name: Springer - Digital object ID: 1760/1827 | This entry was added 13/3/2021
+
+Title: Title-E-30 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2005 - Publisher name: ACM - Digital object ID: 1410/101 | This entry was added 21/10/2021
+
+Title: Title-D-31 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2016 - Publisher name: IEEE - Digital object ID: 1146/1097 | This entry was added 4/11/2021
+
+Title: Title-H-32 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2000 - Publisher name: Elsevier - Digital object ID: 582/847 | This entry was added 4/4/2021
+
+Title: Title-E-33 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2004 - Publisher name: ACM - Digital object ID: 1298/1689 | This entry was added 18/4/2021
+
+Title: Title-H-34 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2012 - Publisher name: ACM - Digital object ID: 482/735 | This entry was added 7/4/2021
+
+Title: Title-G-35 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2008 - Publisher name: Elsevier - Digital object ID: 1889/889 | This entry was added 12/7/2021
+
+Title: Title-E-36 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2019 - Publisher name: ACM - Digital object ID: 1316/516 | This entry was added 13/2/2021
+
+Title: Title-H-37 - Type: Book Chapter - Authors: Jason Adair - Year published: 1999 - Publisher name: Elsevier - Digital object ID: 712/1440 | This entry was added 23/7/2021
+
+Title: Title-F-38 - Type: Book Chapter - Authors: Jason Adair - Year published: 2003 - Publisher name: IEEE - Digital object ID: 723/904 | This entry was added 4/8/2021
+
+Title: Title-D-39 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2014 - Publisher name: ACM - Digital object ID: 1968/1488 | This entry was added 12/11/2021
+
+Title: Title-F-40 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2006 - Publisher name: Elsevier - Digital object ID: 1456/1903 | This entry was added 9/5/2021
+
+Title: Title-A-41 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2004 - Publisher name: Elsevier - Digital object ID: 1679/1955 | This entry was added 24/1/2021
+
+Title: Title-A-42 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2006 - Publisher name: Elsevier - Digital object ID: 1759/98 | This entry was added 23/10/2021
+
+Title: Title-B-43 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2010 - Publisher name: Springer - Digital object ID: 1053/1616 | This entry was added 21/6/2021
+
+Title: Title-H-44 - Type: Book Chapter - Authors: Jason Adair - Year published: 2010 - Publisher name: Springer - Digital object ID: 1963/437 | This entry was added 26/9/2021
+
+Title: Title-F-45 - Type: Book Chapter - Authors: Jason Adair - Year published: 2017 - Publisher name: Springer - Digital object ID: 473/1747 | This entry was added 8/11/2021
+
+Title: Title-E-46 - Type: Book Chapter - Authors: Jason Adair - Year published: 2014 - Publisher name: ACM - Digital object ID: 303/501 | This entry was added 18/5/2021
+
+Title: Title-C-47 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2014 - Publisher name: Elsevier - Digital object ID: 1878/1418 | This entry was added 7/2/2021
+
+Title: Title-E-48 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 1999 - Publisher name: Elsevier - Digital object ID: 1717/746 | This entry was added 29/8/2021
+
+Title: Title-E-49 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 1999 - Publisher name: Springer - Digital object ID: 1642/797 | This entry was added 8/5/2021
+
+Title: Title-D-50 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2016 - Publisher name: IEEE - Digital object ID: 516/849 | This entry was added 4/8/2021
+
+Title: Title-G-51 - Type: Book Chapter - Authors: Jason Adair - Year published: 2008 - Publisher name: Springer - Digital object ID: 988/1027 | This entry was added 7/1/2021
+
+Title: Title-C-52 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2005 - Publisher name: ACM - Digital object ID: 1880/1715 | This entry was added 19/1/2021
+
+Title: Title-F-53 - Type: Book Chapter - Authors: Jason Adair - Year published: 2007 - Publisher name: ACM - Digital object ID: 1403/371 | This entry was added 16/2/2021
+
+Title: Title-A-54 - Type: Book Chapter - Authors: Jason Adair - Year published: 2001 - Publisher name: ACM - Digital object ID: 697/929 | This entry was added 9/4/2021
+
+Title: Title-D-55 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2008 - Publisher name: IEEE - Digital object ID: 1597/1774 | This entry was added 3/7/2021
+
+Title: Title-B-56 - Type: Book Chapter - Authors: Jason Adair - Year published: 2008 - Publisher name: ACM - Digital object ID: 1810/230 | This entry was added 8/3/2021
+
+Title: Title-C-57 - Type: Book Chapter - Authors: Jason Adair - Year published: 2007 - Publisher name: Elsevier - Digital object ID: 284/632 | This entry was added 24/2/2021
+
+Title: Title-F-58 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2002 - Publisher name: ACM - Digital object ID: 1438/1638 | This entry was added 6/8/2021
+
+Title: Title-G-59 - Type: Book Chapter - Authors: Jason Adair - Year published: 2013 - Publisher name: ACM - Digital object ID: 311/1008 | This entry was added 9/5/2021
+
+Title: Title-F-60 - Type: Book Chapter - Authors: Jason Adair - Year published: 2009 - Publisher name: IEEE - Digital object ID: 814/723 | This entry was added 29/8/2021
+
+Title: Title-F-61 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2008 - Publisher name: ACM - Digital object ID: 1407/1775 | This entry was added 11/6/2021
+
+Title: Title-E-62 - Type: Book Chapter - Authors: Jason Adair - Year published: 2007 - Publisher name: IEEE - Digital object ID: 1142/1000 | This entry was added 26/6/2021
+
+Title: Title-H-63 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2005 - Publisher name: ACM - Digital object ID: 1942/1436 | This entry was added 25/6/2021
+
+Title: Title-A-64 - Type: Book Chapter - Authors: Jason Adair - Year published: 2003 - Publisher name: Elsevier - Digital object ID: 869/1661 | This entry was added 17/2/2021
+
+Title: Title-F-65 - Type: Book Chapter - Authors: Jason Adair - Year published: 2009 - Publisher name: Springer - Digital object ID: 1067/1119 | This entry was added 16/1/2021
+
+Title: Title-F-66 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2015 - Publisher name: Springer - Digital object ID: 1015/900 | This entry was added 21/7/2021
+
+Title: Title-H-67 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2000 - Publisher name: Elsevier - Digital object ID: 486/167 | This entry was added 10/6/2021
+
+Title: Title-G-68 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2019 - Publisher name: Elsevier - Digital object ID: 424/965 | This entry was added 4/3/2021
+
+Title: Title-A-69 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2016 - Publisher name: ACM - Digital object ID: 1823/1224 | This entry was added 13/10/2021
+
+Title: Title-H-70 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2008 - Publisher name: IEEE - Digital object ID: 1441/313 | This entry was added 29/2/2021
+
+Title: Title-F-71 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2013 - Publisher name: Springer - Digital object ID: 1894/1573 | This entry was added 22/8/2021
+
+Title: Title-C-72 - Type: Book Chapter - Authors: Jason Adair - Year published: 2004 - Publisher name: Springer - Digital object ID: 1938/1761 | This entry was added 7/3/2021
+
+Title: Title-E-73 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2005 - Publisher name: IEEE - Digital object ID: 889/829 | This entry was added 18/5/2021
+
+Title: Title-A-74 - Type: Book Chapter - Authors: Jason Adair - Year published: 2013 - Publisher name: ACM - Digital object ID: 1263/1217 | This entry was added 23/2/2021
+
+Title: Title-D-75 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2005 - Publisher name: Springer - Digital object ID: 873/501 | This entry was added 19/8/2021
+
+Title: Title-E-76 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2017 - Publisher name: IEEE - Digital object ID: 197/1583 | This entry was added 29/8/2021
+
+Title: Title-C-77 - Type: Book Chapter - Authors: Jason Adair - Year published: 2006 - Publisher name: IEEE - Digital object ID: 883/1239 | This entry was added 1/3/2021
+
+Title: Title-A-78 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2004 - Publisher name: IEEE - Digital object ID: 1159/527 | This entry was added 23/8/2021
+
+Title: Title-B-79 - Type: Book Chapter - Authors: Jason Adair - Year published: 2017 - Publisher name: Springer - Digital object ID: 1336/1136 | This entry was added 2/10/2021
+
+Title: Title-F-80 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2010 - Publisher name: Elsevier - Digital object ID: 1248/221 | This entry was added 13/4/2021
+
+Title: Title-G-81 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2013 - Publisher name: Elsevier - Digital object ID: 538/1521 | This entry was added 27/8/2021
+
+Title: Title-A-82 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2010 - Publisher name: ACM - Digital object ID: 1949/113 | This entry was added 22/11/2021
+
+Title: Title-G-83 - Type: Book Chapter - Authors: Jason Adair - Year published: 2008 - Publisher name: IEEE - Digital object ID: 416/485 | This entry was added 6/3/2021
+
+Title: Title-A-84 - Type: Book Chapter - Authors: Jason Adair - Year published: 2000 - Publisher name: IEEE - Digital object ID: 1413/1824 | This entry was added 11/3/2021
+
+Title: Title-C-85 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2007 - Publisher name: Elsevier - Digital object ID: 113/37 | This entry was added 23/2/2021
+
+Title: Title-A-86 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 1999 - Publisher name: ACM - Digital object ID: 605/1963 | This entry was added 6/5/2021
+
+Title: Title-F-87 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2001 - Publisher name: IEEE - Digital object ID: 649/586 | This entry was added 22/6/2021
+
+Title: Title-G-88 - Type: Book Chapter - Authors: Jason Adair - Year published: 2000 - Publisher name: Elsevier - Digital object ID: 229/1461 | This entry was added 19/11/2021
+
+Title: Title-D-89 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2006 - Publisher name: Elsevier - Digital object ID: 1549/631 | This entry was added 14/10/2021
+
+Title: Title-H-90 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2016 - Publisher name: Springer - Digital object ID: 554/1524 | This entry was added 19/10/2021
+
+Title: Title-H-91 - Type: Book Chapter - Authors: Jason Adair - Year published: 2003 - Publisher name: ACM - Digital object ID: 782/63 | This entry was added 12/4/2021
+
+Title: Title-B-92 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2010 - Publisher name: Springer - Digital object ID: 547/561 | This entry was added 12/6/2021
+
+Title: Title-D-93 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2002 - Publisher name: Elsevier - Digital object ID: 593/1504 | This entry was added 14/6/2021
+
+Title: Title-B-94 - Type: Book Chapter - Authors: Heidi Brynjolfsdottir - Year published: 2013 - Publisher name: IEEE - Digital object ID: 1285/1098 | This entry was added 10/4/2021
+
+Title: Title-A-95 - Type: Book Chapter - Authors: Saemi Haraldsson - Year published: 2017 - Publisher name: IEEE - Digital object ID: 1011/141 | This entry was added 3/7/2021
+
+Title: Title-B-96 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 1999 - Publisher name: Elsevier - Digital object ID: 1083/615 | This entry was added 28/10/2021
+
+Title: Title-F-97 - Type: Book Chapter - Authors: Kevin Bacon - Year published: 2000 - Publisher name: IEEE - Digital object ID: 12/1513 | This entry was added 7/7/2021
+
+Title: Title-G-98 - Type: Book Chapter - Authors: Jason Adair - Year published: 2005 - Publisher name: Elsevier - Digital object ID: 1841/786 | This entry was added 4/1/2021
+
+Title: Title-H-99 - Type: Book Chapter - Authors: Jason Adair - Year published: 2005 - Publisher name: Elsevier - Digital object ID: 1795/606 | This entry was added 29/10/2021
+

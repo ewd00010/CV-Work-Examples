@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="Data">/home/ewan/Desktop/QT stuff/Data Organiser/DataOrganiser/Data</file>
+</qresource>
+</RCC>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>910</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Data Organiser</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextEdit" name="textEdit">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>881</width>
+      <height>501</height>
+     </rect>
+    </property>
+    <property name="acceptRichText">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="cleanButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>520</y>
+      <width>101</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Clean Data</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="tallyIntButton">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>520</y>
+      <width>101</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Tally Integers</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="tallyWordButton">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>520</y>
+      <width>101</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Tally Words</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="findDatesButton">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>520</y>
+      <width>101</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Find Dates</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>910</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_File">
+    <property name="title">
+     <string>&amp;File</string>
+    </property>
+    <addaction name="action_Open"/>
+    <addaction name="action_New"/>
+    <addaction name="action_Recently_Opened"/>
+    <addaction name="separator"/>
+    <addaction name="action_Save_as"/>
+    <addaction name="action_Save"/>
+   </widget>
+   <widget class="QMenu" name="menu_Settings">
+    <property name="title">
+     <string>&amp;Settings</string>
+    </property>
+    <addaction name="action_change_file_path"/>
+    <addaction name="separator"/>
+    <addaction name="action_Clean_Settings"/>
+    <addaction name="actionTally_Settings"/>
+   </widget>
+   <widget class="QMenu" name="menu_Help">
+    <property name="title">
+     <string>&amp;Help</string>
+    </property>
+    <addaction name="action_About"/>
+    <addaction name="separator"/>
+    <addaction name="action_Instructions"/>
+   </widget>
+   <addaction name="menu_File"/>
+   <addaction name="menu_Settings"/>
+   <addaction name="menu_Help"/>
+  </widget>
+  <action name="action_Open">
+   <property name="text">
+    <string>&amp;Open</string>
+   </property>
+  </action>
+  <action name="action_New">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>&amp;New...</string>
+   </property>
+  </action>
+  <action name="action_Recently_Opened">
+   <property name="text">
+    <string>&amp;Recent...</string>
+   </property>
+  </action>
+  <action name="action_Save">
+   <property name="text">
+    <string>&amp;Save</string>
+   </property>
+  </action>
+  <action name="action_Save_All">
+   <property name="text">
+    <string>&amp;Save All</string>
+   </property>
+  </action>
+  <action name="action_Save_as">
+   <property name="text">
+    <string>&amp;Save as</string>
+   </property>
+  </action>
+  <action name="action_About">
+   <property name="text">
+    <string>&amp;About</string>
+   </property>
+  </action>
+  <action name="action_Instructions">
+   <property name="text">
+    <string>&amp;Instructions</string>
+   </property>
+  </action>
+  <action name="action_change_file_path">
+   <property name="text">
+    <string>&amp;change file path</string>
+   </property>
+  </action>
+  <action name="action_Clean_Settings">
+   <property name="text">
+    <string>&amp;Clean Settings</string>
+   </property>
+  </action>
+  <action name="actionTally_Settings">
+   <property name="text">
+    <string>&amp;Tally Int Settings</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

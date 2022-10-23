@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/textFinder_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ewan/Desktop/QT stuff/textFinder",
+	"CMAKE_SOURCE_DIR" : "/home/ewan/Desktop/QT stuff/textFinder",
+	"INCLUDE_DIR" : "/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/textFinder_autogen/include",
+	"INPUTS" : [ "/home/ewan/Desktop/QT stuff/textFinder/input.txt" ],
+	"LOCK_FILE" : "/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/CMakeFiles/textFinder_autogen.dir/AutoRcc_textfinder_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "textfinder" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_textfinder.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/CMakeFiles/textFinder_autogen.dir/AutoRcc_textfinder_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/ewan/Desktop/QT stuff/textFinder/textfinder.qrc",
+	"VERBOSITY" : 0
+}

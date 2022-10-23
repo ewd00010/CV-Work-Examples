@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="bibliography" type="bibType"/>
+    <xs:simpleType name="publicationtype">
+	    <xs:restriction base="xs:string">
+		<xs:enumeration value="Journal Paper"/>
+		<xs:enumeration value="Conference Paper"/>
+		<xs:enumeration value="Book Chapter"/>
+	    </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="JournalPaperEntry">
+        <xs:sequence>
+            <xs:element type="xs:string" name="title"/>
+            <xs:element type="xs:string" name="author"/>
+	    <xs:element type="publicationtype" name="pubtype"/>
+	    <xs:element type="xs:string" name="publicationyear"/>
+	    <xs:element type="xs:string" name="publishername"/>
+	    <xs:element type="xs:string" name="doi"/>
+	    <xs:element type="xs:string" name="day"/>
+	    <xs:element type="xs:string" name="month"/>
+	    <xs:element type="xs:string" name="year"/>
+	    <xs:element type="xs:integer" name="volume"/>
+	    <xs:element type="xs:integer" name="issue"/>
+        </xs:sequence>
+        <xs:attribute name="category" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="ConferencePaperEntry">
+        <xs:sequence>
+            <xs:element type="xs:string" name="title"/>
+            <xs:element type="xs:string" name="author"/>
+	    <xs:element type="publicationtype" name="pubtype"/>
+	    <xs:element type="xs:string" name="publicationyear"/>
+	    <xs:element type="xs:string" name="publishername"/>
+	    <xs:element type="xs:string" name="doi"/>
+	    <xs:element type="xs:string" name="day"/>
+	    <xs:element type="xs:string" name="month"/>
+	    <xs:element type="xs:string" name="year"/>
+	    <xs:element type="xs:string" name="conferencelocation"/>
+        </xs:sequence>
+        <xs:attribute name="category" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="BookChapterEntry">
+        <xs:sequence>
+            <xs:element type="xs:string" name="title"/>
+            <xs:element type="xs:string" name="author"/>
+	    <xs:element type="publicationtype" name="pubtype"/>
+	    <xs:element type="xs:string" name="publicationyear"/>
+	    <xs:element type="xs:string" name="publishername"/>
+	    <xs:element type="xs:string" name="doi"/>
+	    <xs:element type="xs:string" name="day"/>
+	    <xs:element type="xs:string" name="month"/>
+	    <xs:element type="xs:string" name="year"/>
+	    <xs:element type="xs:string" name="conferencelocation"/>
+        </xs:sequence>
+        <xs:attribute name="category" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="bibType">
+        <xs:sequence>
+            <xs:element type="JournalPaperEntry" name="ref1" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="ConferencePaperEntry" name="ref2" maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element type="BookChapterEntry" name="ref3" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

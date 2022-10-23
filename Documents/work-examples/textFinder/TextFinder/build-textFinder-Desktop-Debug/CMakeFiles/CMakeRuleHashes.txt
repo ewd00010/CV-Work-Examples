@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+3afc39ddee5664966cfd80147d581e54 /home/ewan/Desktop/QT stuff/textFinder/textFinder_en_GB.ts
+6c5af67560bb5db38b7dc408389dae08 CMakeFiles/textFinder_autogen
+fc2578502398aa9f084b65981aecf25c textFinder_autogen/EWIEGA46WW/qrc_textfinder.cpp

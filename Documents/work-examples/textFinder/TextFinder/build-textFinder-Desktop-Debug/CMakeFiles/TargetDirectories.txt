@@ -1,0 +1,4 @@
+/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/CMakeFiles/textFinder.dir
+/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ewan/Desktop/QT stuff/build-textFinder-Desktop-Debug/CMakeFiles/textFinder_autogen.dir

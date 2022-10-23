@@ -1,0 +1,33 @@
+#main-information {
+  font-size: 290%;
+}
+
+#footer-heads {
+  font-size: 160%;
+}
+
+#footer-text {
+  font-size: 120%;
+}
+
+.nav-link {
+  font-size: 170%;
+}
+
+#main-title {
+  font-size: 500%;
+}
+
+@media screen and (max-width: 600px), (max-height: 600px) {
+  #main-information {
+    font-size: 130%;
+  }
+
+  #footer-heads {
+    font-size: 100%;
+  }
+
+  #footer-text {
+    font-size: 80%;
+  }
+}

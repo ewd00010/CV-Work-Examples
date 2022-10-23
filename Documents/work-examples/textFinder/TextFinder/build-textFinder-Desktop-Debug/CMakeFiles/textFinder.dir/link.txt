@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/textFinder.dir/textFinder_autogen/mocs_compilation.cpp.o CMakeFiles/textFinder.dir/main.cpp.o CMakeFiles/textFinder.dir/mainwindow.cpp.o CMakeFiles/textFinder.dir/textFinder_autogen/EWIEGA46WW/qrc_textfinder.cpp.o -o textFinder  /usr/lib/libQt5Widgets.so.5.15.4 /usr/lib/libQt5Gui.so.5.15.4 /usr/lib/libQt5Core.so.5.15.4 

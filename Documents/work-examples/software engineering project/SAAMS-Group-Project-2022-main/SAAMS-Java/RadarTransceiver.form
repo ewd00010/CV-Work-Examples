@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="RadarTransceiver">
+  <grid id="27dc6" binding="rootPanel" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="124" y="20" width="873" height="313"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="ecfef" binding="MainFormPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="96688" layout-manager="GridLayoutManager" row-count="7" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="9c3f5" class="javax.swing.JLabel" binding="lblFlightCode">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <enabled value="true"/>
+                  <text value="Flight Code:"/>
+                </properties>
+              </component>
+              <component id="1fe11" class="javax.swing.JLabel" binding="lblCurrentPlanes">
+                <constraints>
+                  <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <preferred-size width="100" height="16"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="Current Planes"/>
+                </properties>
+              </component>
+              <component id="e40" class="javax.swing.JLabel" binding="lblPassengers">
+                <constraints>
+                  <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <preferred-size width="100" height="16"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="Passengers"/>
+                </properties>
+              </component>
+              <scrollpane id="64b5e">
+                <constraints>
+                  <grid row="1" column="2" row-span="6" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="125" height="128"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="2dc96" class="javax.swing.JList" binding="addedPassengersList">
+                    <constraints/>
+                    <properties>
+                      <model/>
+                    </properties>
+                  </component>
+                </children>
+              </scrollpane>
+              <scrollpane id="7f1db">
+                <constraints>
+                  <grid row="1" column="4" row-span="5" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="100" height="128"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="688e0" class="javax.swing.JList" binding="currentPlanesList">
+                    <constraints/>
+                    <properties/>
+                  </component>
+                </children>
+              </scrollpane>
+              <scrollpane id="92329">
+                <constraints>
+                  <grid row="1" column="5" row-span="6" col-span="1" vsize-policy="7" hsize-policy="3" anchor="0" fill="3" indent="1" use-parent-layout="false">
+                    <preferred-size width="125" height="128"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="a544" class="javax.swing.JList" binding="otherPassengersList">
+                    <constraints/>
+                    <properties>
+                      <model/>
+                    </properties>
+                  </component>
+                </children>
+              </scrollpane>
+              <component id="f94ec" class="javax.swing.JLabel" binding="lbl_addedPassengers">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Added Passengers"/>
+                </properties>
+              </component>
+              <component id="2a35c" class="javax.swing.JSeparator">
+                <constraints>
+                  <grid row="0" column="3" row-span="7" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="c71a7" class="javax.swing.JTextField" binding="txt_flightCode">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="fdc5b" class="javax.swing.JLabel" binding="lblFlightFrom">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Flight from:"/>
+                </properties>
+              </component>
+              <component id="fafc" class="javax.swing.JTextField" binding="txt_flightFrom">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <verifyInputWhenFocusTarget value="true"/>
+                </properties>
+              </component>
+              <component id="c5669" class="javax.swing.JLabel" binding="lblFlightTo">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <labelFor value="99da1"/>
+                  <text value="Flight to:"/>
+                  <verifyInputWhenFocusTarget value="true"/>
+                </properties>
+              </component>
+              <component id="99da1" class="javax.swing.JTextField" binding="txt_flightTo">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <verifyInputWhenFocusTarget value="true"/>
+                </properties>
+              </component>
+              <component id="8325b" class="javax.swing.JLabel" binding="lblNextStop">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Next stop:"/>
+                </properties>
+              </component>
+              <component id="cda3" class="javax.swing.JTextField" binding="txt_nextStop">
+                <constraints>
+                  <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="60ab" class="javax.swing.JLabel" binding="lblPassengerName">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Passenger name:"/>
+                </properties>
+              </component>
+              <component id="88e80" class="javax.swing.JTextField" binding="txt_passengerName">
+                <constraints>
+                  <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="812cd" class="javax.swing.JButton" binding="btn_AddPassenger">
+                <constraints>
+                  <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Add Passenger"/>
+                </properties>
+              </component>
+              <component id="4d617" class="javax.swing.JButton" binding="btn_DetectFlight">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Detect Flight"/>
+                </properties>
+              </component>
+              <component id="79608" class="javax.swing.JButton" binding="btn_LeaveAirspace">
+                <constraints>
+                  <grid row="6" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="100" height="30"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <text value="Leave Airspace"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

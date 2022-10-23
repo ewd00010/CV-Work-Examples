@@ -1,0 +1,65 @@
+p,
+h3,
+#main-information {
+  text-align: center;
+}
+
+#main-title{
+  text-align: center;
+}
+
+#animation-title{
+  background-color: rgb(48, 127, 230);
+  border-radius: 5px;
+  margin-left: 34.8vw;
+}
+
+#multithreading-animation {
+  background-color: burlywood;
+  margin: 10px;
+  padding: 10px;
+}
+
+#animation-background {
+  background-color: burlywood;
+}
+
+#thread-box-topr,
+#thread-box-topl,
+#thread-box-botc {
+  fill: rgba(255, 255, 255, 0.5);
+  stroke-width: 5;
+  stroke: rgb(0, 0, 0);
+}
+
+#runtime-line {
+  stroke: rgb(76, 214, 184);
+  stroke-width: 15;
+}
+
+#process-top-thread {
+  stroke: rgba(32, 160, 28, 0.63);
+  stroke-width: 30;
+}
+
+#process-bot-thread {
+  stroke: rgba(71, 58, 58, 0.63);
+  stroke-width: 30;
+}
+
+svg {
+  display: inline;
+}
+
+#process-state-slider {
+  background-color:darkslategray;
+}
+
+#process-state-label{
+  background-color:darkslategray;
+  font-size: 1.5vw;
+  font-weight: bold;
+  color:rgb(232, 209, 238);
+}
+
+

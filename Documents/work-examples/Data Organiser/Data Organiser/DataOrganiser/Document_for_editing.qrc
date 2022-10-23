@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Temporary.txt</file>
+    </qresource>
+</RCC>

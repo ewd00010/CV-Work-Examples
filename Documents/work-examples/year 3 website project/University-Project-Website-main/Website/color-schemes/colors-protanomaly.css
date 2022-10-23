@@ -1,0 +1,35 @@
+*,
+section {
+  background-color: rgb(224, 231, 230);
+}
+
+#main-information {
+  color: darkblue;
+}
+
+/*header and footer color*/
+nav,
+#footer,
+.container-fluid,
+li,
+#hamburgerCollapse,
+footer,
+#footer-row,
+#footer-heads,
+#footer-text,
+.navbar-header,
+span {
+  background-color: rgb(48, 127, 230);
+}
+
+.nav-link {
+  color: rgb(240, 240, 58);
+}
+
+#footer-heads {
+  color: rgb(46, 221, 207);
+}
+
+#footer-text {
+  color: black;
+}

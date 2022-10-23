@@ -1,0 +1,7 @@
+/*carousel settings*/
+#carousel-image {
+  z-index: 100;
+  max-height: 100px;
+  height: 70%;
+  width: 70%;
+}

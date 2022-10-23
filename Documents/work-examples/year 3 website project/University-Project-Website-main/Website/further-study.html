@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>QCAT: Further study</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- custom css -->
+  <link rel="stylesheet" href="layout.css">
+  <link rel="stylesheet" href="color-schemes/colors.css" id="color-scheme">
+  <link rel="stylesheet" href="further-study/further-study-extra-layout.css">
+  <link rel="stylesheet" href="text-options.css">
+
+  <!-- Bootstrap css -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- jQuery first then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+
+</head>
+
+<body>
+
+  <!-- Navigation bar Header -->
+  <header>
+
+    <nav class="navbar navbar-expand-lg fixed-top border-width-custom" role="navigation">
+      <div class="container-fluid">
+        <!-- main logo -->
+        <div class="navbar-header">
+
+          <a class="navbar-brand" href="index.html">
+            <img class="img-fluid" src="media/QCAT_Logo2.png" alt="QCAT logo">
+          </a>
+          <!-- hamburger menu on <large size -->
+          <!-- bug/fix hamburger menu to the right hand side -->
+          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#hamburgerCollapse">
+            <span>
+              <img src="media/burger_menu_smaller.png" alt="page menu">
+            </span>
+          </button>
+
+        </div>
+
+        <div class="collapse navbar-collapse justify-content-end" id="hamburgerCollapse">
+          <!-- links in hamburger menu on <large screen or links on large screen+ -->
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="topic-1.html">Multithreading</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color:grey">Topic 2</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color:grey">Topic 3</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color:grey">Topic 4</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Further study</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="settings.html">Settings</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+  </header>
+  <!-- Navigation bar Header end -->
+  <!-- further study resource list -->
+  <p id="further-study-list">Links to further resource pages</p>
+  <div class="row justify-content-center">
+    <!-- list group is a bootstrap class that creates a list, its allows from multiple links or buttons to be used without list or list item tags-->
+    <div class="list-group">
+      <a class="list-group-item list-group-item-action" href="#">link which leads to a resource</a>
+      <a class="list-group-item list-group-item-action" href="#">link which leads to another resource</a>
+      <a class="list-group-item list-group-item-action" href="#">link that leads to a third resource</a>
+    </div>
+  </div>
+  <p id="further-study-list">videos of further resources</p>
+  <div class="row justify-content-center">
+    <!-- video content -->
+    <video width="550" height="310" controls>
+      <source src="/media/further-study-resource-1.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+
+    <div class="container-fluid border-width-custom" id="footer">
+      <div class="row">
+        <div class="col-sm" id="footer-row">
+
+          <h5 id="footer-heads">Rights</h5>
+          <p id="footer-text">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
+            Pellentesque nulla ex, maximus eu ex et
+          </p>
+        </div>
+        <div class="col-sm" id="footer-row">
+
+          <h5 id="footer-heads">contact details</h5>
+          <p id="footer-text">
+            efficitur sagittis ipsum. Nunc varius dapibus odio.<br>
+            Suspendisse dictum eros nec placerat consectetur. Aliquam ac
+            lacinia justo, <br>
+            sit amet luctus nisl. Phasellus
+          </p>
+        </div>
+        <div class="col-sm" id="footer-row">
+
+          <a class="nav-link" href="settings.html">Settings</a>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+  <!-- Footer end -->
+
+</body>
+
+</html>

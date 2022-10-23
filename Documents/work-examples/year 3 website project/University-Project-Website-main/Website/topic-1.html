@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>QCAT: Multithreading</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- custom css -->
+  <link rel="stylesheet" href="layout.css">
+  <link rel="stylesheet" href="color-schemes/colors.css" id="color-scheme">
+  <link rel="stylesheet" href="topic-1/topic-1-extra-layout.css">
+  <link rel="stylesheet" href="text-options.css">
+
+  <!-- Bootstrap css -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- jQuery first then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+
+  <!-- custom JS -->
+  <script src="topic-1\topic-1-js.js"></script>
+
+</head>
+
+<body>
+  <!-- Navigation bar Header -->
+  <header>
+
+    <nav class="navbar navbar-expand-lg fixed-top border-width-custom" role="navigation">
+      <div class="container-fluid">
+        <!-- main logo -->
+        <div class="navbar-header">
+
+          <a class="navbar-brand" href="index.html">
+            <img class="img-fluid" src="media/QCAT_Logo2.png" alt="QCAT logo">
+          </a>
+          <!-- hamburger menu on <large size -->
+          <!-- bug/fix hamburger menu to the right hand side -->
+          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#hamburgerCollapse">
+            <span>
+              <img src="media/burger_menu_smaller.png" alt="page menu">
+            </span>
+          </button>
+
+        </div>
+
+        <div class="collapse navbar-collapse justify-content-end" id="hamburgerCollapse">
+          <!-- links in hamburger menu on <large screen or links on large screen+ -->
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#"> Multithreading</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color:grey">Topic 2</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color:grey">Topic 3</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color:grey">Topic 4</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="further-study.html">Further study</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="settings.html">Settings</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+  </header>
+  <!-- Navigation bar Header end -->
+
+  <!-- Title -->
+  <div class="row">
+    <div class="col-12">
+      <h1 id="main-title">Multithreading</h1>
+    </div>
+  </div>
+
+  <!-- multithreading animation -->
+  <div class="col-12">
+    <!-- class btn and its additions are bootstrap classes and changes how the button behaves and looks on the page-->
+    <button type="button" class="btn btn-outline-primary btn-block" id="run-button">
+      Run
+    </button>
+  </div>
+
+  <!-- graphics -->
+  <div class="row border-width-custom" id="multithreading-animation">
+    <h2 id="animation-title"> Multitasking within a single process</h2>
+    <!-- top thread -->
+    <svg width="90vw" height="6vw" id="animation-background">
+
+      <!-- process color fills within rectangles -->
+      <!-- thread-box-topr -->
+
+      <!-- top life line -->
+      <line x1="7.8vw" y1="2.75vw" x2="88vw" y2="2.75vw" id="runtime-line"></line>
+      <!-- top right rect -->
+      <rect x="9vw" y="0.5vw" width="20.5vw" height="4.8vw" id="thread-box-topr"></rect>
+      <text fill="black" font-size="50" font-family="Corbel" x="13.3vw" y="3.5vw" id="executing-first" style="display:none">executing</text>
+      <!-- first switch -->
+      <text fill="black" font-size="30" font-family="Corbel" x="30.3vw" y="5.8vw" id="first-switch">switch</text>
+      <!-- first switch -->
+      <text fill="black" font-size="30" font-family="Corbel" x="54.8vw" y="5.8vw" id="first-switch">switch</text>
+      <!-- top left rect -->
+      <rect x="61vw" y="0.5vw" width="26vw" height="4.8vw" id="thread-box-topl"></rect>
+      <text fill="black" font-size="50" font-family="Corbel" x="68.6vw" y="3.5vw" id="executing-third" style="display:none">executing</text>
+      <!-- current process state -->
+      <line x1="8vw" y1="0vw" x2="8vw" y2="6vw" id="process-top-thread"></line>
+
+    </svg>
+
+    <!-- bot thread -->
+    <svg width="90vw" height="6vw" id="animation-background">
+
+      <!-- lower life line -->
+      <line x1="7.8vw" y1="2.75vw" x2="88vw" y2="2.75vw" id="runtime-line"></line>
+      <!-- bot center rect -->
+      <rect x="35.2vw" y="0.5vw" width="20.5vw" height="4.8vw" id="thread-box-botc"></rect>
+      <text fill="black" font-size="50" font-family="Corbel" x="39.8vw" y="3.5vw" id="executing-second" style="display:none">executing</text>
+      <!-- current process state -->
+      <line x1="8vw" y1="0vw" x2="8vw" y2="6vw" id="process-bot-thread"></line>
+
+    </svg>
+    
+  </div>
+    <!-- content explanation -->
+    <p>
+      | The blue bars represent threads within the process |
+      The transparent white boxes represent when a thread is active |
+      The green and grey bar represents the process's current state |
+      Green is active, grey is sleeping or waiting |
+    </p>
+  <!-- animation slider bar -->
+  <div class="row border-width-custom">
+    <!-- offset is a bootstrap class that offsets the col by a spefied amount-->
+    <div class="col-10 offset-1" style="background-color:darkslategray">
+      <input type="range" class="custom-range" min="7.8" max="88.8" value="7.8" id="process-state-slider">
+      <label for="process-state-slider" id="process-state-label">Process state</label>
+    </div>
+  </div>
+
+  <!-- starting information-->
+  <h3> A single process can have many threads at once, the process above has two threads however it can only have one thread active at any time.</h3>
+  <!-- main information -->
+  <p id="main-information">
+    More Information will appear here as the process is changed
+  </p>
+  <!-- Footer -->
+  <footer>
+
+    <div class="container-fluid border-width-custom" id="footer">
+      <div class="row">
+        <div class="col-sm" id="footer-row">
+
+          <h5 id="footer-heads">Rights</h5>
+          <p id="footer-text">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
+            Pellentesque nulla ex, maximus eu ex et
+          </p>
+        </div>h5
+        <div class="col-sm" id="footer-row">
+
+          <h5 id="footer-heads">contact details</h5>
+          <p id="footer-text">
+            efficitur sagittis ipsum. Nunc varius dapibus odio.<br>
+            Suspendisse dictum eros nec placerat consectetur. Aliquam ac
+            lacinia justo, <br>
+            sit amet luctus nisl. Phasellus
+          </p>
+        </div>
+        <div class="col-sm" id="footer-row">
+
+          <a class="nav-link" href="settings.html">Settings</a>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+  <!-- Footer end -->
+
+</body>
+
+</html>

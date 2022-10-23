@@ -1,0 +1,14 @@
+#accessibility {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+#color-scheme-list{
+  background-color: rgb(224, 231, 230);
+  padding: 1px;
+}
+
+#settings-view{
+  border:double;
+  border-width: 20px;
+}
